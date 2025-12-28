@@ -1,0 +1,14 @@
+openai
+instructor
+pydantic
+aiohttp
+httpx
+transformers
+peft
+gradio
+torch
+accelerate
+bitsandbytes
+protobuf
+sentencepiece
+scipy
