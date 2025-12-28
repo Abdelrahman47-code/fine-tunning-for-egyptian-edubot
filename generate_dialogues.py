@@ -7,7 +7,7 @@ from typing import List
 import httpx 
 from pydantic import BaseModel, Field, validator 
  
-GEMINI_API_KEY = "AIzaSyCoGJokaYHejLGzw39T477gxFgHYk4YO6o"
+GEMINI_API_KEY = ""
 OUTPUT_FILE = "egyptian_dialogues_.json" 
 TOTAL_DIALOGUES = 250
 MODEL_NAME = "gemini-2.5-flash" 
